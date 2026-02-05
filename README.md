@@ -51,7 +51,7 @@ For a full list of my projects, please visit my [GitHub Repositories](https://gi
 ## 📫 Let's Connect
 I'm actively transitioning to software development roles and welcome conversations about:
 - Automation opportunities
-- .NET development projects
+- Open Source projects
 - Career transition insights
 
 **Email**: AliMamalachi1@gmail.com  
