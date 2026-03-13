@@ -18,7 +18,7 @@ I'm passionate about transforming manual workflows into efficient, automated sol
 ## 💼 Professional Experience
 
 ### **Department Automation Specialist**
-*Education Sector* | *2023-Present*
+*Education Sector* | *2025-Present*
 
 - **Multi-Department Impact**: Developed and deployed VBA automation solutions across various departments, serving numerous team members
 - **Workflow Transformation**: Automated tasks that were previously manual or deferred due to complexity, enabling bi-weekly execution of processes that were previously monthly
