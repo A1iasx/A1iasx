@@ -41,7 +41,8 @@ Here are some of my public projects, showcasing my skills and interests in web d
 - **Technologies**: JavaScript
 - **Description**: A custom-built Chrome extension designed to help users search and manage their open tabs quickly and efficiently.
 
-For a full list of my projects, please visit my [GitHub Repositories](https://github.com/axpeed?tab=repositories).
+🚧 Coming Soon
+Got something in the works — a full-stack web app using C#/.NET, PostgreSQL, and Mapbox GL JS. Stay tuned.
 
 ## 🎯 Current Learning Focus
 - **C# & .NET Development**: Building proficiency in object-oriented programming and .NET frameworks
