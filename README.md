@@ -6,14 +6,14 @@ I'm passionate about transforming manual workflows into efficient, automated sol
 
 ## 🔧 What I Do
 - **Process Automation**: Design and implement VBA solutions that automate repetitive tasks
-- **Efficiency Optimization**: Identify bottlenecks and create tools that transform workflows
-- **Full-Stack Development**: Build applications with JavaScript, Python, and React.js
+- **Efficiency Optimization**: Identify bottlenecks and create tools that optimize workflows
+- **Full-Stack Development**: Build applications with JavaScript, Python, C#, React.js, and other frameworks
 - **Career Transition**: Currently focused on mastering C# and .NET for professional software development roles
 
 ## 🛠 Technical Skills
-- **Languages**: JavaScript, Python, C, C#, SQL, Java, Javascript, VBA
-- **Libraries & Frameworks**: React.js, Next.js, Bootstrap, Flask
-- **Tools**: Git, Jupyter Notebook, p5.js
+- **Languages**: JavaScript, Python, C, C#, SQL, Javascript, VBA
+- **Libraries & Frameworks**: React.js, Next.js, Bootstrap, Flask, p5.js, Mapbox GL JS
+- **Tools**: Git, Jupyter Notebook
 
 ## 💼 Professional Experience
 
@@ -51,8 +51,8 @@ Got something in the works — a full-stack web app using C#/.NET, PostgreSQL, a
 
 ## 📫 Let's Connect
 I'm actively transitioning to software development roles and welcome conversations about:
+- Open Source/Collaborative projects
 - Automation opportunities
-- Open Source projects
 - Career transition insights
 
 **Email**: AliMamalachi1@gmail.com  
@@ -60,4 +60,3 @@ I'm actively transitioning to software development roles and welcome conversatio
 
 ---
 
-*Open to opportunities where I can apply my automation mindset to software development challenges.*
